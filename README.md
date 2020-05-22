@@ -1,3 +1,6 @@
+# Smart-brain app (Front-end)
+This app detects face in any image using the API from Clarifai. This is the final exercise of the ZTM Web Development course. All rights belong to the creators of the course.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
